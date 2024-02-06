@@ -88,9 +88,9 @@ class NavTwo extends Component {
                                 <div className="logo-action d-flex align-items-center">
                                     <div className="ostion-logo">
                                         <Link href="/">
-                                            <a href="">
-                                                <img src="/images/logo2.png" alt="Oxpitan" title="Oxpitan" />
-                                            </a>
+
+                                            <img src="/images/logo2.png" alt="Oxpitan" title="Oxpitan" />
+
                                         </Link>
                                     </div>
                                 </div>
@@ -101,41 +101,41 @@ class NavTwo extends Component {
                                         <div className="navigation-top">
                                             <nav className="main-navigation">
                                                 <ul>
-                                                    <li className="active"><Link href="/"><a>Home</a></Link>
+                                                    <li className="active"><Link href="/">Home</Link>
                                                         <ul className="dropdown-menu-item">
-                                                            <li><Link href="/"><a>Home 1</a></Link></li>
-                                                            <li><Link href="/index2"><a>Home 2</a></Link></li>
+                                                            <li><Link href="/">Home 1</Link></li>
+                                                            <li><Link href="/index2">Home 2</Link></li>
                                                         </ul>
                                                     </li>
                                                     <li><a href="#">causes</a>
                                                         <ul className="dropdown-menu-item">
-                                                            <li><Link href="/causes"><a>causes</a></Link></li>
-                                                            <li><Link href="/causes-detail"><a>causes detail</a></Link></li>
-                                                            <li><Link href="/donate"><a>donate now</a></Link></li>
+                                                            <li><Link href="/causes">causes</Link></li>
+                                                            <li><Link href="/causes-detail">causes detail</Link></li>
+                                                            <li><Link href="/donate">donate now</Link></li>
                                                         </ul>
                                                     </li>
                                                     <li><a href="#">events</a>
                                                         <ul className="dropdown-menu-item">
-                                                                <li><Link href="/events"><a>events</a></Link></li>
-                                                                <li><Link href="/events-detail"><a>events detail</a></Link></li>
+                                                                <li><Link href="/events">events</Link></li>
+                                                                <li><Link href="/events-detail">events detail</Link></li>
                                                         </ul>
                                                     </li>
                                                     <li><a href="#">news</a>
                                                         <ul className="dropdown-menu-item">
-                                                            <li><Link href="/news"><a>news</a></Link></li>
-                                                            <li><Link href="/single-news"><a>news detail</a></Link></li>
+                                                            <li><Link href="/news">news</Link></li>
+                                                            <li><Link href="/single-news">news detail</Link></li>
                                                         </ul>
                                                     </li>
                                                     <li><a href="#">pages</a>
                                                         <ul className="dropdown-menu-item">
-                                                            <li><Link href="/about"><a>about</a></Link></li>
-                                                            <li><Link href="/gallery"><a>gallery</a></Link></li>
-                                                            <li><Link href="/volunteer"><a>become a volunteer</a></Link></li>
-                                                            <li><Link href="/team"><a>our team</a></Link></li>
-                                                            <li><Link href="/sponsor"><a>sponsors</a></Link></li>
+                                                            <li><Link href="/about">about</Link></li>
+                                                            <li><Link href="/gallery">gallery</Link></li>
+                                                            <li><Link href="/volunteer">become a volunteer</Link></li>
+                                                            <li><Link href="/team">our team</Link></li>
+                                                            <li><Link href="/sponsor">sponsors</Link></li>
                                                         </ul>
                                                     </li>
-                                                    <li><Link href="/contact"><a>contact</a></Link></li>
+                                                    <li><Link href="/contact">contact</Link></li>
                                                 </ul>
                                             </nav>
                                         </div>
@@ -157,43 +157,43 @@ class NavTwo extends Component {
                             <li className="sidenav__item"><a href="/">home</a>
                                 <span className="menu-plus-icon"></span>
                                 <ul className="side-sub-menu">
-                                    <li><Link href="/"><a>Home 1</a></Link></li>
-                                    <li><Link href="/index2"><a>Home 2</a></Link></li>
+                                    <li><Link href="/">Home 1</Link></li>
+                                    <li><Link href="/index2">Home 2</Link></li>
                                 </ul>
                             </li>
                             <li className="sidenav__item"><a href="#">causes</a>
                                 <span className="menu-plus-icon"></span>
                                 <ul className="side-sub-menu">
-                                    <li><Link href="/causes"><a>causes</a></Link></li>
-                                    <li><Link href="/causes-detail"><a>causes detail</a></Link></li>
-                                    <li><Link href="/donate"><a>donate now</a></Link></li>
+                                    <li><Link href="/causes">causes</Link></li>
+                                    <li><Link href="/causes-detail">causes detail</Link></li>
+                                    <li><Link href="/donate">donate now</Link></li>
                                 </ul>
                             </li>
                             <li className="sidenav__item"><a href="#">event</a>
                                 <span className="menu-plus-icon"></span>
                                 <ul className="side-sub-menu">
-                                    <li><Link href="/events"><a>events</a></Link></li>
-                                    <li><Link href="/events-detail"><a>events detail</a></Link></li>
+                                    <li><Link href="/events">events</Link></li>
+                                    <li><Link href="/events-detail">events detail</Link></li>
                                 </ul>
                             </li>
                             <li className="sidenav__item"><a href="#">news</a>
                                 <span className="menu-plus-icon"></span>
                                 <ul className="side-sub-menu">
-                                    <li><Link href="/news"><a>news</a></Link></li>
-                                    <li><Link href="/single-news"><a>news detail</a></Link></li>
+                                    <li><Link href="/news">news</Link></li>
+                                    <li><Link href="/single-news">news detail</Link></li>
                                 </ul>
                             </li>
                             <li className="sidenav__item"><a href="#">pages</a>
                                 <span className="menu-plus-icon"></span>
                                 <ul className="side-sub-menu">
-                                    <li><Link href="/about"><a>about</a></Link></li>
-                                    <li><Link href="/gallery"><a>gallery</a></Link></li>
-                                    <li><Link href="/volunteer"><a>become a volunteer</a></Link></li>
-                                    <li><Link href="/team"><a>our team</a></Link></li>
-                                    <li><Link href="/sponsor"><a>sponsors</a></Link></li>
+                                    <li><Link href="/about">about</Link></li>
+                                    <li><Link href="/gallery">gallery</Link></li>
+                                    <li><Link href="/volunteer">become a volunteer</Link></li>
+                                    <li><Link href="/team">our team</Link></li>
+                                    <li><Link href="/sponsor">sponsors</Link></li>
                                 </ul>
                             </li>
-                            <li className="sidenav__item"><Link href="/contact"><a>contact</a></Link></li>
+                            <li className="sidenav__item"><Link href="/contact">contact</Link></li>
                         </ul>
                         <ul className="side-social">
                             <li><a href="#"><i className="fa fa-facebook"></i></a></li>
@@ -202,7 +202,7 @@ class NavTwo extends Component {
                             <li><a href="#"><i className="fa fa-google-plus"></i></a></li>
                         </ul>
                         <div className="side-btn">
-                            <Link href="/donate"><a className="theme-btn">donate now</a></Link>
+                            <Link href="/donate" className="theme-btn">donate now</Link>
                         </div>
                     </div>
                 </div>
