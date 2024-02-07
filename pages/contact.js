@@ -14,7 +14,7 @@ const ContactPage = () => {
             <PageHeader title="Contact" />
             <Contact />
             <Map />
-            {/* <Footer /> */}
+            <Footer />
         </Layout>
     );
 };
