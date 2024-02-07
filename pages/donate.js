@@ -10,7 +10,7 @@ const DonatePage = () => {
         <Layout pageTitle="Oxpitan | Donate">
             <NavOne />
             <PageHeader title="Donate" />
-            <Donate />
+            {/* <Donate /> */}
             <Footer />
         </Layout>
     );
