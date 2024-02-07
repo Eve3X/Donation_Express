@@ -128,17 +128,7 @@ class Footer extends Component {
                             </div>
                         </div>
                     </div>
-                    <div className="footer-copyright">
-                        <div className="container">
-                            <div className="row">
-                                <div className="col-lg-12">
-                                    <div className="copyright-desc">
-                                        <p>© Copyright 2020 by <a href="#">Layerdrops.com</a></p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+                    
                 </section>
 
                 <div onClick={this.scrollTop} id="back-to-top" className={this.state.scrollBtn ? 'back-btn-shown' : ''}>
