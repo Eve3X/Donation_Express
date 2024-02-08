@@ -60,7 +60,7 @@ class NavOne extends Component {
                                             <ul className="d-flex align-items-center">
                                                 <li><a href="#"><i
                                                     className="fa fa-envelope"></i>Info@dreamsearchtech.com</a></li>
-                                                <li><a href="#"><i className="fa fa-phone-square"></i>+19737222242</a>
+                                                <li><a href="#"><i className="fa fa-phone-square"></i>+1 (973) 722-2242</a>
                                                 </li>
                                             </ul>
                                         </div>
