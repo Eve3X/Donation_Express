@@ -13,13 +13,18 @@ const Contact = () => {
                             <h2 className="section__title">Get in Touch With Us</h2>
                             <p className="section__meta">Write a message</p>
                             <p className="section__desc">
-                            Join Donation Express in making a difference. Reach out to us to learn more about our initiatives and how you can contribute.
+                            Join Donation Express in making a difference. Reach out to us to learn more about our initiatives and how you can contribute. Whether you want to volunteer, donate, or learn more about our mission, we're here to connect and create a better world together.
+
+
+
+
+
                             </p>
                             <ul className="section__list">
-                                <li><a href="#"><i className="fa fa-twitter"></i></a></li>
-                                <li><a href="#"><i className="fa fa-facebook"></i></a></li>
+                                <li><a href="https://twitter.com/DonationExpress"><i className="fa fa-twitter"></i></a></li>
+                                <li><a href="https://www.facebook.com/profile.php?id=61555580108720"><i className="fa fa-facebook"></i></a></li>
                                 <li><a href="#"><i className="fa fa-pinterest"></i></a></li>
-                                <li><a href="#"><i className="fa fa-instagram"></i></a></li>
+                                <li><a href="https://www.instagram.com/donationexpress"><i className="fa fa-instagram"></i></a></li>
                             </ul>
                         </div>
                     </div>
@@ -59,8 +64,7 @@ const Contact = () => {
                         <div className="contact-item contact-item1">
                             <h3 className="contact__title">About</h3>
                             <p className="contact__desc">
-                                Lorem ipsum is simply free text dolor sit
-                                amet, duise consectetur ullam blandit
+                            We aim to address various societal challenges and contribute to it.
                             </p>
                         </div>
                     </div>
@@ -68,8 +72,7 @@ const Contact = () => {
                         <div className="contact-item contact-item2">
                             <h3 className="contact__title">Address</h3>
                             <p className="contact__desc">
-                                660 broklyn street , 88 new york, United states of
-                                america
+                            10 pleasant valley way , New Jersey 07005
                             </p>
                         </div>
                     </div>
@@ -77,8 +80,8 @@ const Contact = () => {
                         <div className="contact-item contact-item3">
                             <h3 className="contact__title">Contact</h3>
                             <p className="contact__desc">
-                                needhelp@oxpitan.com <br />
-                                666 888 000
+                            hr@dreamsearchtech.com <br />
+                            +19737222242
                             </p>
                         </div>
                     </div>
