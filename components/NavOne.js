@@ -70,12 +70,11 @@ class NavOne extends Component {
                                     <div className="top-action-content info-action-content">
                                         <div className="info-box info-box-2 d-flex align-items-center justify-content-end">
                                             <ul className="top-action-list d-flex align-items-center">
-                                                <li className="action__text"><a href="#">login</a></li>
-                                                <li className="action__text"><a href="#">register</a></li>
-                                                <li><a href="#"><i className="fa fa-twitter"></i></a></li>
-                                                <li><a href="#"><i className="fa fa-facebook"></i></a></li>
-                                                <li><a href="#"><i className="fa fa-pinterest"></i></a></li>
-                                                <li><a href="#"><i className="fa fa-instagram"></i></a></li>
+                                                <li className="action__text"><a href="http://localhost:3000/login">login</a></li>
+                                                <li className="action__text"><a href="http://localhost:3000/register">register</a></li>
+                                                <li><a href="https://twitter.com/DonationExpress" target='_blank'><i className="fa fa-twitter"></i></a></li>
+                                                <li><a href="https://www.facebook.com/profile.php?id=61555580108720"  target='_blank'><i className="fa fa-facebook"></i></a></li>
+                                                <li><a href="https://www.instagram.com/donationexpress"  target='_blank'><i className="fa fa-instagram"></i></a></li>
                                             </ul>
                                         </div>
                                     </div>

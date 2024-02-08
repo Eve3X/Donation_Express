@@ -69,7 +69,7 @@ class NavTwo extends Component {
                                     <div className="info-box info-box-2 d-flex align-items-center justify-content-end">
                                         <ul className="top-action-list d-flex align-items-center">
                                             <li className="action__text"><a href="#">login</a></li>
-                                            <li className="action__text"><a href="#">register</a></li>
+                                            <li className="action__text"><a href="">register</a></li>
                                             <li><a href="#"><i className="fa fa-twitter"></i></a></li>
                                             <li><a href="#"><i className="fa fa-facebook"></i></a></li>
                                             <li><a href="#"><i className="fa fa-pinterest"></i></a></li>
