@@ -112,16 +112,16 @@ class Footer extends Component {
                                 <div className="col footer-item footer-item4">
                                     <h3 className="widget__title">contact</h3>
                                     <ul className="contact__info">
-                                        <li>660 Broklyn Street, 88 New York</li>
-                                        <li><a href="mailto:needhelp@oxpitan.com">needhelp@oxpitan.com</a></li>
-                                        <li><a href="tel:6668880000">666 888 0000</a></li>
+                                        <li>10 pleasant valley way , New Jersey 07005</li>
+                                        <li><a href="mailto: hr@dreamsearchtech.com"> hr@dreamsearchtech.com</a></li>
+                                        <li><a href="mailto: Info@dreamsearchtech.com"> Info@dreamsearchtech.com</a></li>
+                                        <li><a href="tel:+1 (973) 722-2242">+1 (973) 722-2242</a></li>
                                     </ul>
                                     <div className="footer__social">
                                         <ul>
-                                            <li><a href="#"><i className="fa fa-twitter"></i></a></li>
-                                            <li><a href="#"><i className="fa fa-facebook"></i></a></li>
-                                            <li><a href="#"><i className="fa fa-pinterest"></i></a></li>
-                                            <li><a href="#"><i className="fa fa-instagram"></i></a></li>
+                                            <li><a href="https://twitter.com/DonationExpress" target='_blank'><i className="fa fa-twitter"></i></a></li>
+                                            <li><a href="https://www.facebook.com/profile.php?id=61555580108720" target='_blank'><i class="fa fa-facebook"></i></a></li>
+                                            <li><a href="https://www.instagram.com/donationexpress" target='_blank'><i className="fa fa-instagram"></i></a></li>
                                         </ul>
                                     </div>
                                 </div>
