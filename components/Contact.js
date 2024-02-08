@@ -80,8 +80,9 @@ const Contact = () => {
                         <div className="contact-item contact-item3">
                             <h3 className="contact__title">Contact</h3>
                             <p className="contact__desc">
+                            Info@dreamsearchtech.com<br/>
                             hr@dreamsearchtech.com <br />
-                            +19737222242
+                            +1 (973) 722-2242
                             </p>
                         </div>
                     </div>
