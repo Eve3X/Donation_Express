@@ -21,10 +21,10 @@ const Contact = () => {
 
                             </p>
                             <ul className="section__list">
-                                <li><a href="https://twitter.com/DonationExpress"><i className="fa fa-twitter"></i></a></li>
-                                <li><a href="https://www.facebook.com/profile.php?id=61555580108720"><i className="fa fa-facebook"></i></a></li>
+                                <li><a href="https://twitter.com/DonationExpress"><i className="fa fa-twitter" target='_blank'></i></a></li>
+                                <li><a href="https://www.facebook.com/profile.php?id=61555580108720"><i className="fa fa-facebook" target='_blank'></i></a></li>
                                 
-                                <li><a href="https://www.instagram.com/donationexpress"><i className="fa fa-instagram"></i></a></li>
+                                <li><a href="https://www.instagram.com/donationexpress"><i className="fa fa-instagram" target='_blank'></i></a></li>
                             </ul>
                         </div>
                     </div>
