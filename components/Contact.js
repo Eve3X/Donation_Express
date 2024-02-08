@@ -13,9 +13,7 @@ const Contact = () => {
                             <h2 className="section__title">Get in Touch With Us</h2>
                             <p className="section__meta">Write a message</p>
                             <p className="section__desc">
-                                Aliq is notm hendr erit a augue insu image pellen tes que id erat quis sollicitud.
-                                Lorem ipsum is simply free text dolor sit amet,
-                                consectetur adipiscing ullam blandit hendrerit faucibus suspendisse.
+                            Join Donation Express in making a difference. Reach out to us to learn more about our initiatives and how you can contribute.
                             </p>
                             <ul className="section__list">
                                 <li><a href="#"><i className="fa fa-twitter"></i></a></li>

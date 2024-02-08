@@ -16,6 +16,7 @@ const ContactPage = () => {
             <Map />
             <Footer /> 
         </Layout>
+        
     );
 };
 
