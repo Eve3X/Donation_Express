@@ -10,7 +10,7 @@ const connectToMongo = () => mongoose.connect(mongoURI)
 
 // const connectToMongo = async(req,res) =>{
 //   mongoose.connect(mongoURI, ()=> {
-//     console.log("Connected to mongo successfully");
+//     console.log("Connected to mongo successfully"); yes lmao
 //   })
 // }
 
