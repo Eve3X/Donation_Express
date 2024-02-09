@@ -37,9 +37,7 @@ const ServiceArea = () => {
                                 <div className="service-content">
                                     <h4 className="service__title">hope</h4>
                                     <p className="service__desc">
-                                        Lorem ipsum is simply free text
-                                        available
-                                        in the market wesbites.
+                                    Help us pave the way to a better future through the enduring power of hope
                                     </p>
                                 </div>
                             </div>
@@ -54,9 +52,7 @@ const ServiceArea = () => {
                                 <div className="service-content">
                                     <h4 className="service__title">prayers</h4>
                                     <p className="service__desc">
-                                        Lorem ipsum is simply free text
-                                        available
-                                        in the market wesbites.
+                                    Join us in making a difference through the strength of prayers, uniting hearts for positive change
                                     </p>
                                 </div>
                             </div>
@@ -71,9 +67,7 @@ const ServiceArea = () => {
                                 <div className="service-content">
                                     <h4 className="service__title">peace</h4>
                                     <p className="service__desc">
-                                        Lorem ipsum is simply free text
-                                        available
-                                        in the market wesbites.
+                                    Empower change through the transformative force of peace, building a harmonious world together
                                     </p>
                                 </div>
                             </div>
@@ -88,9 +82,7 @@ const ServiceArea = () => {
                                 <div className="service-content">
                                     <h4 className="service__title">donation</h4>
                                     <p className="service__desc">
-                                        Lorem ipsum is simply free text
-                                        available
-                                        in the market wesbites.
+                                    Your donation fuels our mission, creating a ripple effect of positive impact in the lives of those in need
                                     </p>
                                 </div>
                             </div>
