@@ -5,11 +5,11 @@ const AboutArea = () => {
         <section className="about-area">
             <div className="container">
                 <div className="row">
-                    <div className="col-lg-12">
+                    {/* <div className="col-lg-12">
                         <div className="about-large-img">
                             <img src="/images/about-img.jpg" alt="" />
                         </div>
-                    </div>
+                    </div> */}
                     <div className="col-lg-5">
                         <div className="about-semi-img">
                             <img src="/images/about-img2.jpg" alt="" />
@@ -21,16 +21,10 @@ const AboutArea = () => {
                                 <div className="section-icon">
                                     <img src="/images/section-icon.png" alt="section-icon" />
                                 </div>
-                                <h2 className="section__title">Discover About Oxpitan</h2>
+                                <h2 className="section__title">Discover Donation Express</h2>
                                 <p className="section__meta">learn about non profit agency</p>
                                 <p className="section__desc">
-                                    Tincidunt elit magnis nulla facilisis sagittis maecenas. Sapien nunced amet
-                                    ultrices, dolores sit ipsum velit purus aliquet, massa fringilla leo orcium
-                                    dolors sit amet elit magnis amet ultrices lorem ipsum is simply free
-                                    text purusrfed aliquet. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-                                    Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque
-                                    penatibus et magnis dis parturient montes, nascetur ridiculus.
-                                    penatibus et magnis dis parturient montes, nascetur ridiculus.
+                                Welcome to Donation Express, where the spirit of giving meets the drive for positive change. As an organization committed to making a difference, Donation Express focuses on community development, education, healthcare, and social welfare. With an inclusive approach, we embrace diversity and welcome individuals, volunteers, and organizations to join us on our mission. Transparency and accountability are our guiding principles, ensuring that every contribution counts toward creating a more equitable and sustainable world. At Donation Express, we believe in the power of collective action and invite you to be a part of our journey to uplift lives and build a brighter future for all.
                                 </p>
                             </div>
                         </div>
