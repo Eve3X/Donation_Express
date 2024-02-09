@@ -20,7 +20,7 @@ const AboutPage = () => {
             <TeamArea />
             <FaqArea />
             <ServiceArea />
-            <ClientsLogoTwo />
+            {/* <ClientsLogoTwo /> */}
             <Footer />
         </Layout>
     );

@@ -40,7 +40,7 @@ const ClientsLogoTwo = () => {
                 <div className="row">
                     <div className="col-md-12">
                         <div className="client-logo">
-                            <Swiper {...params}>
+                            {/* <Swiper {...params}>
                                 <div className="client-logo-item">
                                     <img src="/images/client-logo.png" alt="brand image" />
                                 </div>
@@ -59,7 +59,7 @@ const ClientsLogoTwo = () => {
                                 <div className="client-logo-item">
                                     <img src="/images/client-logo.png" alt="brand image" />
                                 </div>
-                            </Swiper>
+                            </Swiper> */}
                         </div>
                     </div>
                 </div>
