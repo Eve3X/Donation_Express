@@ -47,16 +47,16 @@ class MixerArea extends Component {
                                     <div className="fun-item fun-item1">
                                         <i className="icon-charity"></i>
                                         <h3 className="counter">
-                                            <VisibilitySensor onChange={this.onVisibilityChange} offset={{top:10}} delayedCall><CountUp end={this.state.startCounter ? 785000 : 0} /></VisibilitySensor>
+                                            <VisibilitySensor onChange={this.onVisibilityChange} offset={{top:10}} delayedCall><CountUp end={this.state.startCounter ? 5230 : 0} /></VisibilitySensor>
                                         </h3>
-                                        <p className="fun__text">raised by 6,388 people in 7 days</p>
+                                        <p className="fun__text">raised by 113 people in 7 days</p>
                                     </div>
                                 </div>
                                 <div className="fun-content">
                                     <div className="fun-item fun-item2">
                                         <i className="icon-cancer"></i>
                                         <h3 className="counter">
-                                            <VisibilitySensor onChange={this.onVisibilityChange} offset={{top:10}} delayedCall><CountUp end={this.state.startCounter ? 63000 : 0} /></VisibilitySensor>
+                                            <VisibilitySensor onChange={this.onVisibilityChange} offset={{top:10}} delayedCall><CountUp end={this.state.startCounter ? 531 : 0} /></VisibilitySensor>
                                         </h3>
                                         <p className="fun__text">volunteer are available to help you</p>
                                     </div>
@@ -70,10 +70,9 @@ class MixerArea extends Component {
                                         <div className="fun-slide-item">
                                             <div className="icon-quote">“</div>
                                             <h3 className="funslide__text">
-                                                Every man must decide whether he will walk in the light
-                                                of creative altruism or in the darkness of destructive selfishness.
+                                                Its not how much we give, but how much love we put into giving
                                             </h3>
-                                            <p className="funslide__name">Martin Luther King, jr</p>
+                                            <p className="funslide__name">Mother Teresa</p>
                                         </div>
                                         <div className="fun-slide-item">
                                             <div className="icon-quote">“</div>
@@ -86,10 +85,9 @@ class MixerArea extends Component {
                                         <div className="fun-slide-item">
                                             <div className="icon-quote">“</div>
                                             <h3 className="funslide__text">
-                                                Every man must decide whether he will walk in the light
-                                                of creative altruism or in the darkness of destructive selfishness.
+                                                No one is useless in this world who ligthens the burden of another.
                                             </h3>
-                                            <p className="funslide__name">Martin Luther King, jr</p>
+                                            <p className="funslide__name">Charles Dickens</p>
                                         </div>
                                     </Swiper>
                                 </div>
