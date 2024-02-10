@@ -17,7 +17,7 @@ const AboutPage = () => {
             <PageHeader title="About" />
             <AboutArea /> 
             <MixerAreaTwo />
-            <TeamArea />
+            {/* <TeamArea /> */}
             <FaqArea />
             <ServiceArea />
             {/* <ClientsLogoTwo /> */}

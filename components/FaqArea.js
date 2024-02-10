@@ -16,13 +16,13 @@ class FaqArea extends Component {
                         <div className="col-lg-6">
                             <div className="section-heading">
                                 <div className="section-icon">
-                                    <img src="/images/section-icon.png" alt="section-icon" />
+                                    <img src="/images/justlogo.svg" alt="section-icon" />
                                 </div>
                                 <h2 className="section__title">Have any Question?</h2>
                                 <p className="section__meta">frequently asked questions</p>
                             </div>
                             <div className="faq-img-box">
-                                <img src="/images/faqaboutus.png" alt="" />
+                                <img src="/images/questions.png" alt="" />
                             </div>
                         </div>
                         <div className="col-lg-6">
@@ -52,7 +52,7 @@ class FaqArea extends Component {
                                 </div>
 
                                 <div className="ac">
-                                    <h2 className="ac-q" tabIndex="0">Are there any upcoming events or campaigns that I can participate in?</h2>
+                                    <h2 className="ac-q" tabIndex="0">Is my donation tax-deductible?</h2>
                                     <div className="ac-a">
                                         <p className="accordion__content-desc">Suspendisse finibus urna mauris, vitae consequat quam blandit vel. Vestibulum leo ligula, molestie ullamcorper vulputate vitae sodales commodo nisl. Nulla facilisi. Pellentesque est metus. There are many variations of eration in some form.
                                         </p>
