@@ -21,14 +21,14 @@ const HomePage = () => {
         <Layout pageTitle="Oxpitan - React Next Nonprofit Charity and Fundraising Template">
           <NavOne />
           <SliderOne />
-          <EntryArea />
+          {/* <EntryArea /> */}
           <HiwArea />
           <ServiceArea />
           <MixerArea />
-          <CausesArea />
-          <ClientsLogo />
+          {/* <CausesArea /> */}
+          {/* <ClientsLogo /> */}
           <HelpingArea />
-          <TeamArea />
+          {/* <TeamArea /> */}
           <CallToAction />
           <BlogHome />
           <Map />

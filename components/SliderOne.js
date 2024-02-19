@@ -21,7 +21,7 @@ const SliderOne = () => {
         <section className="slider-area">
             <div className="homepage-slide1">
 
-                <Swiper getSwiper={setSwiper}>
+                {/* <Swiper getSwiper={setSwiper}> */}
                 <div className="single-slide-item slide-bg1">
                     <div className="slide-item-table">
                         <div className="slide-item-tablecell">
@@ -29,7 +29,7 @@ const SliderOne = () => {
                                 <div className="row">
                                     <div className="col-md-7">
                                         <div className="slider-heading">
-                                            <p className="slider__meta">welcome to oxpitan</p>
+                                            <p className="slider__meta">welcome to Donation Express</p>
                                             <h2 className="slider__title">Lend the helping hand get involved</h2>
                                             <a href="#" className="theme-btn">discover more</a>
                                         </div>
@@ -39,7 +39,24 @@ const SliderOne = () => {
                         </div>
                     </div>
                 </div>
-                <div className="single-slide-item slide-bg2">
+                {/* <div className="single-slide-item slide-bg2">
+                    <div className="slide-item-table">
+                        <div className="slide-item-tablecell">
+                            <div className="container">
+                                <div className="row">
+                                    <div className="col-md-7">
+                                        <div className="slider-heading">    
+                                            <p className="slider__meta">welcome to oxpitan</p>
+                                            <h2 className="slider__title">Lend the helping hand get involved</h2>
+                                            <a href="#" className="theme-btn">discover more</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div> */}
+                {/* <div className="single-slide-item slide-bg3">
                     <div className="slide-item-table">
                         <div className="slide-item-tablecell">
                             <div className="container">
@@ -55,29 +72,12 @@ const SliderOne = () => {
                             </div>
                         </div>
                     </div>
-                </div>
-                <div className="single-slide-item slide-bg3">
-                    <div className="slide-item-table">
-                        <div className="slide-item-tablecell">
-                            <div className="container">
-                                <div className="row">
-                                    <div className="col-md-7">
-                                        <div className="slider-heading">
-                                            <p className="slider__meta">welcome to oxpitan</p>
-                                            <h2 className="slider__title">Lend the helping hand get involved</h2>
-                                            <a href="#" className="theme-btn">discover more</a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                </Swiper>
-                <div className="owl-dots">
+                </div> */}
+                {/* </Swiper> */}
+                {/* <div className="owl-dots">
                     <div onClick={goPrev} className="owl-dot"><span></span></div>
                     <div onClick={goNext} className="owl-dot"><span></span></div>
-                </div>
+                </div> */}
             </div>
         </section>
     );

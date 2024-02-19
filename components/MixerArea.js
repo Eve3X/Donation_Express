@@ -28,7 +28,7 @@ class MixerArea extends Component {
                             <div className="col-lg-8">
                                 <div className="section-heading mixer-heading">
                                     <div className="section-icon">
-                                        <img src="/images/section-icon.png" alt="section-icon" />
+                                        <img src="/images/justlogo.svg" alt="section-icon" />
                                     </div>
                                     <h2 className="section__title text__white">Fundraising for the people and causes you
                                         care about</h2>

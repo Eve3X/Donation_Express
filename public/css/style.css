@@ -1696,7 +1696,7 @@ a:hover {
 .mixer-area {
     position: relative;
     z-index: 1;
-    background-image: url("../images/mixer-bg.jpg");
+    background-image: url("../images/mixer-bgplain.jpg");
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -1856,7 +1856,11 @@ a:hover {
     MIXER AREA 3
 =====================================*/
 .mixer-area3 {
+<<<<<<< Updated upstream
     background-image: url("../images/mixer-bg2.png");
+=======
+    background-image: url("../images/mixerarea2.jpg");
+>>>>>>> Stashed changes
 }
 .mixer-area3:after {
     background-color: rgba(66, 66, 66, 0.80);

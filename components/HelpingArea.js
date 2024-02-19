@@ -9,7 +9,7 @@ const HelpingArea = () => {
                         <div className="col-lg-6">
                             <div className="section-heading mixer-heading">
                                 <div className="section-icon">
-                                    <img src="/images/section-icon.png" alt="section-icon" />
+                                    <img src="/images/justlogo.svg" alt="section-icon" />
                                 </div>
                                 <h2 className="section__title">Give a helping hand for homeless childrens</h2>
                             </div>
@@ -39,12 +39,7 @@ const HelpingArea = () => {
                         <div className="col-lg-6">
                             <div className="helping-text-box">
                                 <p className="helping__text">
-                                    Aliq is notm hendr erit a augue insu image pellen tes que
-                                    id erat quis simply free text sollicitud. Lorem ipsum dolor sit amet,
-                                    consectetur adipiscing ullam blandit hendrerit faucibus suspendisse.
-                                    Dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-                                    tempor incidi labore et dolore magna aliqua enim ad minim veniam.
-                                </p>
+                                Extend a helping hand to homeless children by joining our cause. In the face of adversity, these resilient young souls deserve a chance at a brighter future. Together, let's create a compassionate community where every child has the chance to thrive, grow, and build a foundation for a better tomorrow.                        </p>
                             </div>
                         </div>
                     </div>
@@ -60,15 +55,12 @@ const HelpingArea = () => {
                                 </div>
                                 <div className="section-heading">
                                     <div className="section-icon">
-                                        <img src="/images/section-icon.png" alt="section-icon" />
+                                        <img src="/images/justlogo.svg" alt="section-icon" />
                                     </div>
                                     <h2 className="section__title">Charity activities are taken place around the
                                         world</h2>
                                     <p className="section__desc">
-                                        Aliq is notm hendr erit a augue insu image pellen tes que id erat
-                                        quis simply free text sollicitud. Lorem ipsum dolor
-                                        sit not amet, consectetur adipiscing ullam
-                                        blandit simply free text hendrerit faucibus suspendisse.
+                                    Across the globe, charitable endeavors echo the collective commitment to making a difference. From local initiatives to global campaigns, kindness knows no boundaries.
                                     </p>
                                 </div>
                             </div>
@@ -77,7 +69,7 @@ const HelpingArea = () => {
                             <div className="helping-form">
                                 <div className="section-heading">
                                     <div className="section-icon">
-                                        <img src="/images/section-icon.png" alt="section-icon" />
+                                        <img src="/images/justlogo.svg" alt="section-icon" />
                                     </div>
                                     <h2 className="section__title text__white">Make a Donation</h2>
                                     <p className="section__meta text__white">donate us now</p>

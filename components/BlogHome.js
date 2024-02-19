@@ -8,7 +8,7 @@ const BlogHome = () => {
                     <div className="col-lg-8 mx-auto text-center">
                         <div className="section-heading blog-heading">
                             <div className="section-icon">
-                                <img src="/images/section-icon.png" alt="section-icon" />
+                                <img src="/images/justlogo.svg" alt="section-icon" />
                             </div>
                             <h2 className="section__title">Recent Blog Posts</h2>
                             <p className="section__meta">news and updates</p>
@@ -19,22 +19,20 @@ const BlogHome = () => {
                     <div className="col-lg-6">
                         <div className="recent-item">
                             <div className="recent__img">
-                                <span className="meta__date-date">09 mar, 2019</span>
+                                <span className="meta__date-date">14 Oct, 2022</span>
                                 <img src="/images/blog-img.jpg" alt="service-image" />
                             </div>
                             <div className="news__content">
-                                <h3 className="news__content-title"><a href="/single-news">A place where start new
-                                    life with peace</a></h3>
+                                <h3 className="news__content-title"><a href="https://www.unicef.org/blog/pakistan-floodwaters-hide-new-dangers">
+                                In Pakistan, floodwaters hide new dangers</a></h3>
                                 <ul className="news__content-list">
                                     <li className="news__content-active__dot"><a href="#">mike hardson</a></li>
-                                    <li><a href="#">3 comments</a></li>
+                                    <li><a href="https://www.unicef.org/blog/pakistan-floodwaters-hide-new-dangers">3 comments</a></li>
                                 </ul>
                                 <p className="news__content-text">
-                                    Aliq is notm hendr erit a augue insu image pellen tes que id erat quis
-                                    sollicitud. Lorem ipsum dolor sit amet,
-                                    consectetur adipiscing ullam blandit hendrerit faucibus suspendisse.
+                                Historic floods have left families devastated. Water-borne diseases and malnutrition are compounding the threats to their safety.
                                 </p>
-                                <a href="single-news" className="theme-btn">read more</a>
+                                <a href="https://www.unicef.org/blog/pakistan-floodwaters-hide-new-dangers" className="theme-btn">read more</a>
                             </div>
                         </div>
                     </div>
@@ -46,8 +44,8 @@ const BlogHome = () => {
                                         <a href="/single-news"><img src="/images/blog-img2.jpg" alt="" /></a>
                                     </div>
                                     <div className="recent__content">
-                                        <span>07 mar, 2019</span>
-                                        <h4><a href="single-news.html">Let’s together provide them a healthy food</a>
+                                        <span>14 Nov, 2022</span>
+                                        <h4><a href="https://www.unicef.org/blog/rising-waters-sinking-lives-cambodia-battle-against-climate-health-threats">Rising waters, sinking lives</a>
                                         </h4>
                                     </div>
                                 </li>
@@ -56,18 +54,18 @@ const BlogHome = () => {
                                         <a href="/single-news"><img src="images/blog-img3.jpg" alt="" /></a>
                                     </div>
                                     <div className="recent__content">
-                                        <span>04 mar, 2019</span>
-                                        <h4><a href="/single-news">Building clean water system for poor</a></h4>
+                                        <span>19 Dec, 2023</span>
+                                        <h4><a href="https://www.unicef.org/blog/hope-and-resilience-amid-hardship-afghanistan">Hope and resilience amid hardship in Afghanistan</a></h4>
                                     </div>
-                                </li>
+                                </li>   
                                 <li>
                                     <div className="recent__img">
                                         <a href="/single-news"><img src="/images/blog-img4.jpg" alt="" /></a>
                                     </div>
                                     <div className="recent__content">
-                                        <span>30 feb, 2019</span>
-                                        <h4><a href="single-news.html">Become a volunteer you will feel the
-                                            benefits </a></h4>
+                                        <span>12 Oct, 2023</span>
+                                        <h4><a href="https://www.unicef.org/blog/haitis-unimaginable-struggles">
+                                        Haiti’s unimaginable struggles </a></h4>
                                     </div>
                                 </li>
                             </ul>
