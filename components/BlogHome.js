@@ -23,16 +23,16 @@ const BlogHome = () => {
                                 <img src="/images/blog-img.jpg" alt="service-image" />
                             </div>
                             <div className="news__content">
-                                <h3 className="news__content-title"><a href="https://www.unicef.org/blog/pakistan-floodwaters-hide-new-dangers">
+                                <h3 className="news__content-title"><a href="https://www.unicef.org/blog/pakistan-floodwaters-hide-new-dangers" target="_blank">
                                 In Pakistan, floodwaters hide new dangers</a></h3>
                                 <ul className="news__content-list">
                                     <li className="news__content-active__dot"><a href="#">mike hardson</a></li>
-                                    <li><a href="https://www.unicef.org/blog/pakistan-floodwaters-hide-new-dangers">3 comments</a></li>
+                                    <li><a href="https://www.unicef.org/blog/pakistan-floodwaters-hide-new-dangers" target="_blank">3 comments</a></li>
                                 </ul>
                                 <p className="news__content-text">
                                 Historic floods have left families devastated. Water-borne diseases and malnutrition are compounding the threats to their safety.
                                 </p>
-                                <a href="https://www.unicef.org/blog/pakistan-floodwaters-hide-new-dangers" className="theme-btn">read more</a>
+                                <a href="https://www.unicef.org/blog/pakistan-floodwaters-hide-new-dangers" target="_blank" className="theme-btn">read more</a>
                             </div>
                         </div>
                     </div>
@@ -45,7 +45,7 @@ const BlogHome = () => {
                                     </div>
                                     <div className="recent__content">
                                         <span>14 Nov, 2022</span>
-                                        <h4><a href="https://www.unicef.org/blog/rising-waters-sinking-lives-cambodia-battle-against-climate-health-threats">Rising waters, sinking lives</a>
+                                        <h4><a href="https://www.unicef.org/blog/rising-waters-sinking-lives-cambodia-battle-against-climate-health-threats" target="_blank">Rising waters, sinking lives</a>
                                         </h4>
                                     </div>
                                 </li>
@@ -55,7 +55,7 @@ const BlogHome = () => {
                                     </div>
                                     <div className="recent__content">
                                         <span>19 Dec, 2023</span>
-                                        <h4><a href="https://www.unicef.org/blog/hope-and-resilience-amid-hardship-afghanistan">Hope and resilience amid hardship in Afghanistan</a></h4>
+                                        <h4><a href="https://www.unicef.org/blog/hope-and-resilience-amid-hardship-afghanistan" target="_blank">Hope and resilience amid hardship in Afghanistan</a></h4>
                                     </div>
                                 </li>   
                                 <li>
@@ -64,7 +64,7 @@ const BlogHome = () => {
                                     </div>
                                     <div className="recent__content">
                                         <span>12 Oct, 2023</span>
-                                        <h4><a href="https://www.unicef.org/blog/haitis-unimaginable-struggles">
+                                        <h4><a href="https://www.unicef.org/blog/haitis-unimaginable-struggles" target="_blank">
                                         Haiti’s unimaginable struggles </a></h4>
                                     </div>
                                 </li>
