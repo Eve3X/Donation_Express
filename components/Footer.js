@@ -1,4 +1,5 @@
 import React, {Component} from 'react';
+import Link from 'next/link';
 
 class Footer extends Component {
     constructor(){
@@ -74,54 +75,54 @@ class Footer extends Component {
                                 <div className="col footer-item footer-item1">
                                     <h3 className="widget__title">about</h3>
                                     <ul className="foot__links">
-                                        <li><a href="#">causes</a></li>
-                                        <li><a href="#">about</a></li>
-                                        <li><a href="#">New Campaign</a></li>
-                                        <li><a href="#">Site Map</a></li>
-                                        <li><a href="#">Events</a></li>
+                                        {/* <li><Link href="#">causes</Link></li> */}
+                                        <li><Link href="/about">about</Link></li>
+                                        <li><Link href="/events">New Campaign</Link></li>
+                                        <li><Link href="/map">Site Map</Link></li>
+                                        <li><Link href="/events">events</Link></li>
                                     </ul>
                                 </div>
                                 <div className="col footer-item footer-item2">
                                     <h3 className="widget__title">explore</h3>
                                     <ul className="foot__links">
-                                        <li><a href="#">Press Release</a></li>
-                                        <li><a href="#">contact</a></li>
-                                        <li><a href="#">Blog Posts</a></li>
-                                        <li><a href="#">Social Connect</a></li>
-                                        <li><a href="#">Help Topics</a></li>
+                                        <li><Link href="/news">Press Release</Link></li>
+                                        <li><Link href="/contact">contact</Link></li>
+                                        {/* <li><Link href="/index">Blog Posts</Link></li> */}
+                                        <li><Link href="/contact">Social Connect</Link></li>
+                                        {/* <li><Link href="#">Help Topics</Link></li> */}
                                     </ul>
                                 </div>
                                 <div className="col footer-item footer-item3">
                                     <h3 className="widget__title">links</h3>
                                     <ul className="foot__links">
-                                        <li><a href="#">Podcasts</a></li>
-                                        <li><a href="#">Privacy Policy</a></li>
-                                        <li><a href="#">Videos</a></li>
-                                        <li><a href="#">Terms of Use</a></li>
+                                        {/* <li><Link href="#">Podcasts</Link></li> */}
+                                        {/* <li><Link href="#">Privacy Policy</Link></li> */}
+                                        <li><Link href="#">Videos</Link></li>
+                                        <li><Link href="#">Terms of Use</Link></li>
                                     </ul>
                                 </div>
                                 <div className="col footer-item footer-item3">
-                                    <h3 className="widget__title">blog</h3>
+                                    <h3 className="widget__title">More</h3>
                                     <ul className="foot__links">
-                                        <li><a href="#">Care for All People</a></li>
-                                        <li><a href="#">Build school for kids</a></li>
-                                        <li><a href="#">Being Volunteer</a></li>
-                                        <li><a href="#">Raise fund to help</a></li>
+                                        {/* <li><Link href="#">Care for All People</Link></li>
+                                        <li><Link href="#">Build school for kids</Link></li> */}
+                                        <li><Link href="/volunteer">Being Volunteer</Link></li>
+                                        <li><Link href="/donate">Raise fund to help</Link></li>
                                     </ul>
                                 </div>
                                 <div className="col footer-item footer-item4">
                                     <h3 className="widget__title">contact</h3>
                                     <ul className="contact__info">
                                         <li>10 pleasant valley way , New Jersey 07005</li>
-                                        <li><a href="mailto: hr@dreamsearchtech.com"> hr@dreamsearchtech.com</a></li>
-                                        <li><a href="mailto: Info@dreamsearchtech.com"> Info@dreamsearchtech.com</a></li>
-                                        <li><a href="tel:+1 (973) 722-2242">+1 (973) 722-2242</a></li>
+                                        <li><Link href="mailto: hr@dreamsearchtech.com"> hr@dreamsearchtech.com</Link></li>
+                                        <li><Link href="mailto: Info@dreamsearchtech.com"> Info@dreamsearchtech.com</Link></li>
+                                        <li><Link href="tel:+1 (973) 722-2242">+1 (973) 722-2242</Link></li>
                                     </ul>
                                     <div className="footer__social">
                                         <ul>
-                                            <li><a href="https://twitter.com/DonationExpress" target='_blank'><i className="fa fa-twitter"></i></a></li>
-                                            <li><a href="https://www.facebook.com/profile.php?id=61555580108720" target='_blank'><i class="fa fa-facebook"></i></a></li>
-                                            <li><a href="https://www.instagram.com/donationexpress" target='_blank'><i className="fa fa-instagram"></i></a></li>
+                                            <li><Link href="https://twitter.com/DonationExpress" target='_blank'><i className="fa fa-twitter"></i></Link></li>
+                                            <li><Link href="https://www.facebook.com/profile.php?id=61555580108720" target='_blank'><i class="fa fa-facebook"></i></Link></li>
+                                            <li><Link href="https://www.instagram.com/donationexpress" target='_blank'><i className="fa fa-instagram"></i></Link></li>
                                         </ul>
                                     </div>
                                 </div>

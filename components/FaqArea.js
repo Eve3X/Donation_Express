@@ -30,40 +30,41 @@ class FaqArea extends Component {
                                 <div className="ac">
                                     <h2 className="ac-q" tabIndex="0">Make a difference in the life of a child</h2>
                                     <div className="ac-a">
-                                        <p className="accordion__content-desc">Suspendisse finibus urna mauris, vitae consequat quam blandit vel. Vestibulum leo ligula, molestie ullamcorper vulputate vitae sodales commodo nisl. Nulla facilisi. Pellentesque est metus. There are many variations of eration in some form.
-                                        </p>
+                                        <p className="accordion__content-desc">Embark on a transformative journey by contributing to our mission to make a meaningful impact in the lives of children. Your support can provide them with education, healthcare, and the hope for a brighter future.</p>
                                     </div>
                                 </div>
 
                                 <div className="ac">
                                     <h2 className="ac-q" tabIndex="0">How can I donate to your organization?</h2>
                                     <div className="ac-a">
-                                        <p className="accordion__content-desc">Suspendisse finibus urna mauris, vitae consequat quam blandit vel. Vestibulum leo ligula, molestie ullamcorper vulputate vitae sodales commodo nisl. Nulla facilisi. Pellentesque est metus. There are many variations of eration in some form.
-                                        </p>
+                                        <p className="accordion__content-desc">Donating is simple and impactful! You can contribute through our website's secure donation portal, by mailing a check to our headquarters, or by participating in fundraising events. Your generosity fuels our initiatives and makes a lasting difference.</p>
                                     </div>
                                 </div>
 
                                 <div className="ac">
                                     <h2 className="ac-q" tabIndex="0">What impact has your organization made in the community so far?</h2>
                                     <div className="ac-a">
-                                        <p className="accordion__content-desc">Suspendisse finibus urna mauris, vitae consequat quam blandit vel. Vestibulum leo ligula, molestie ullamcorper vulputate vitae sodales commodo nisl. Nulla facilisi. Pellentesque est metus. There are many variations of eration in some form.
-                                        </p>
+                                        <p className="accordion__content-desc">Our organization has touched countless lives, from empowering education to providing essential healthcare services. Through community-driven projects, we've witnessed positive transformations, fostering self-sufficiency and resilience.  </p>
                                     </div>
                                 </div>
 
                                 <div className="ac">
                                     <h2 className="ac-q" tabIndex="0">Is my donation tax-deductible?</h2>
                                     <div className="ac-a">
-                                        <p className="accordion__content-desc">Suspendisse finibus urna mauris, vitae consequat quam blandit vel. Vestibulum leo ligula, molestie ullamcorper vulputate vitae sodales commodo nisl. Nulla facilisi. Pellentesque est metus. There are many variations of eration in some form.
-                                        </p>
+                                        <p className="accordion__content-desc">Yes, your donation is tax-deductible. We are a registered non-profit organization, and your contributions not only create positive change but also provide you with the benefit of a tax deduction.</p>
                                     </div>
                                 </div>
 
                                 <div className="ac">
                                     <h2 className="ac-q" tabIndex="0">Join your hand with us for a better life</h2>
                                     <div className="ac-a">
-                                        <p className="accordion__content-desc">Suspendisse finibus urna mauris, vitae consequat quam blandit vel. Vestibulum leo ligula, molestie ullamcorper vulputate vitae sodales commodo nisl. Nulla facilisi. Pellentesque est metus. There are many variations of eration in some form.
-                                        </p>
+                                        <p className="accordion__content-desc">Extend your hand in solidarity as we work towards creating a better life for those in need. Your involvement, whether through volunteering, donations, or advocacy, strengthens our collective effort to build a more compassionate and equitable world.
+
+
+
+
+
+</p>
                                     </div>
                                 </div>
                             </div>

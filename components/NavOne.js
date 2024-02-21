@@ -113,32 +113,32 @@ class NavOne extends Component {
                                                                 <li><Link href="/index2">Home 2</Link></li>
                                                             </ul>
                                                         </li>
-                                                        <li><a href="#">causes</a>
+                                                        {/* <li><a href="#">causes</a>
                                                             <ul className="dropdown-menu-item">
                                                                 <li><Link href="/causes">causes</Link></li>
                                                                 <li><Link href="/causes-detail">causes detail</Link></li>
-                                                                <li><Link href="/donate">donate now</Link></li>
-                                                            </ul>
-                                                        </li>
+                                                                </ul>
+                                                            </li> */}
                                                         <li><a href="#">events</a>
                                                             <ul className="dropdown-menu-item">
                                                                 <li><Link href="/events">events</Link></li>
-                                                                <li><Link href="/events-detail">events detail</Link></li>
+                                                                {/* <li><Link href="/events-detail">events detail</Link></li> */}
                                                             </ul>
                                                         </li>
                                                         <li><a href="#">news</a>
                                                             <ul className="dropdown-menu-item">
                                                                 <li><Link href="/news">news</Link></li>
-                                                                <li><Link href="/single-news">news detail</Link></li>
+                                                                {/* <li><Link href="/single-news">news detail</Link></li> */}
                                                             </ul>
                                                         </li>
-                                                        <li><a href="#">pages</a>
+                                                        <li><a href="#">More</a>
                                                             <ul className="dropdown-menu-item">
                                                                 <li><Link href="/about">about</Link></li>
                                                                 <li><Link href="/gallery">gallery</Link></li>
                                                                 <li><Link href="/volunteer">become a volunteer</Link></li>
-                                                                <li><Link href="/team">our team</Link></li>
-                                                                <li><Link href="/sponsor">sponsors</Link></li>
+                                                            <li><Link href="/donate">donate now</Link></li>
+                                                                {/* <li><Link href="/team">our team</Link></li> */}
+                                                                {/* <li><Link href="/sponsor">sponsors</Link></li> */}
                                                             </ul>
                                                         </li>
                                                         <li><Link href="/contact">contact</Link></li>
