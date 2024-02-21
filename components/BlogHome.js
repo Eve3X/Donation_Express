@@ -8,7 +8,7 @@ const BlogHome = () => {
                     <div className="col-lg-8 mx-auto text-center">
                         <div className="section-heading blog-heading">
                             <div className="section-icon">
-                                <img src="/images/justlogo.svg" alt="section-icon" />
+                                {/* <img src="/images/justlogo.svg" alt="section-icon" /> */}
                             </div>
                             <h2 className="section__title">Recent Blog Posts</h2>
                             <p className="section__meta">news and updates</p>

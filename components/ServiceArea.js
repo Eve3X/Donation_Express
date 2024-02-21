@@ -19,7 +19,7 @@ const ServiceArea = () => {
                     <div className="col-lg-8 mx-auto">
                         <div className="section-heading service-heading">
                             <div className="section-icon">
-                                <img src="/images/justlogo.svg" alt="section-icon" />
+                                {/* <img src="/images/justlogo.svg" alt="section-icon" /> */}
                             </div>
                             <h2 className="section__title">We Believe that
                                 We can Save More Lifes with you</h2>

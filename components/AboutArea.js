@@ -19,7 +19,7 @@ const AboutArea = () => {
                         <div className="about-heading">
                             <div className="section-heading">
                                 <div className="section-icon">
-                                    <img src="/images/justlogo.svg" alt="section-icon" />
+                                    {/* <img src="/images/justlogo.svg" alt="section-icon" /> */}
                                 </div>
                                 <h2 className="section__title">Discover Donation Express</h2>
                                 <p className="section__meta" >learn about non profit agency</p>

@@ -59,7 +59,7 @@ const GalleryCarousel = () => {
                     <div className="col-lg-8 mx-auto">
                         <div className="section-heading">
                             <div className="section-icon">
-                                <img src="/images/section-icon.png" alt="section-icon" />
+                                {/* <img src="/images/section-icon.png" alt="section-icon" /> */}
                             </div>
                             <h2 className="section__title text__white">Check Our Gallery</h2>
                             <p className="section__meta">photography</p>

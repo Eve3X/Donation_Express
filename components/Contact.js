@@ -8,7 +8,7 @@ const Contact = () => {
                     <div className="col-lg-6">
                         <div className="section-heading">
                             <div className="section-icon">
-                                <img src="/images/section-icon.png" alt="section-icon" />
+                                {/* <img src="/images/section-icon.png" alt="section-icon" /> */}
                             </div>
                             <h2 className="section__title">Get in Touch With Us</h2>
                             <p className="section__meta">Write a message</p>
