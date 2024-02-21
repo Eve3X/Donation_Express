@@ -9,7 +9,7 @@ const HelpingArea = () => {
                         <div className="col-lg-6">
                             <div className="section-heading mixer-heading">
                                 <div className="section-icon">
-                                    <img src="/images/justlogo.svg" alt="section-icon" />
+                                    {/* <img src="/images/justlogo.svg" alt="section-icon" /> */}
                                 </div>
                                 <h2 className="section__title">Give a helping hand for homeless childrens</h2>
                             </div>
@@ -55,7 +55,7 @@ const HelpingArea = () => {
                                 </div>
                                 <div className="section-heading">
                                     <div className="section-icon">
-                                        <img src="/images/justlogo.svg" alt="section-icon" />
+                                        {/* <img src="/images/justlogo.svg" alt="section-icon" /> */}
                                     </div>
                                     <h2 className="section__title">Charity activities are taken place around the
                                         world</h2>
@@ -69,7 +69,7 @@ const HelpingArea = () => {
                             <div className="helping-form">
                                 <div className="section-heading">
                                     <div className="section-icon">
-                                        <img src="/images/justlogo.svg" alt="section-icon" />
+                                        {/* <img src="/images/justlogo.svg" alt="section-icon" /> */}
                                     </div>
                                     <h2 className="section__title text__white">Make a Donation</h2>
                                     <p className="section__meta text__white">donate us now</p>

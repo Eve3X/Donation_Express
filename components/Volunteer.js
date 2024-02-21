@@ -8,7 +8,7 @@ const Volunteer = () => {
                     <div className="col-lg-8 mx-auto">
                         <div className="section-heading text-center">
                             <div className="section-icon">
-                                <img src="/images/section-icon.png" alt="section-icon" />
+                                {/* <img src="/images/section-icon.png" alt="section-icon" /> */}
                             </div>
                             <h2 className="section__title">Register Now</h2>
                             <p className="section__meta">join us now</p>
@@ -24,18 +24,23 @@ const Volunteer = () => {
                             <div className="form-content">
                                 <h3 className="form__title">Requirements</h3>
                                 <p className="form__desc">
-                                    Aliquam hendrerit a augue insu image pellentes que id erat quis sollicitud null
-                                    mattis Ipsum is simply dummy typesetting industry. Alienum phaedrum torquatos nec
-                                    eu,
-                                    vis detraxit periculis ex, nihil expetendis in meifn pericula euripidis, hinc partem
-                                    ei est.
-                                    Eos ei nisl graecis, aperiri consequat anlorem tincidunt vix at
+                                Embark on a journey of compassion and make a lasting impact by joining 
+                                our vibrant community of givers. Registering with Donation Express is 
+                                your passport to transforming lives and creating positive change. 
+                                As a registered member, you gain exclusive access to a seamless platform 
+                                where your generosity takes center stage. Sign up now to unlock a world 
+                                of possibilities — from personalized giving experiences to tracking the 
+                                impact of your contributions. By becoming a part of Donation Express,
+                                you're not just registering; you're stepping into a community where 
+                                your kindness finds purpose and your every donation becomes a powerful 
+                                force for good. Join us in shaping a better tomorrow—register today and 
+                                let your generosity create ripples of hope and change!
                                 </p>
-                                <ul className="form__list">
+                                {/* <ul className="form__list">
                                     <li><i className="fa fa-check"></i> Eos ei nisl graecis vix aperiri consequat</li>
                                     <li><i className="fa fa-check"></i> Alienum phaedrum torquatos</li>
                                     <li><i className="fa fa-check"></i> Dius lorem tincidunt vixat</li>
-                                </ul>
+                                </ul> */}
                                 <div className="contact-us-box">
                                     <div className="contact__item">
                                         <h4>Call us</h4>
