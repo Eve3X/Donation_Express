@@ -9,7 +9,7 @@ const News = () => {
                     <div className="col-lg-6 col-sm-6">
                         <div className="recent-item">
                             <div className="recent__img">
-                                <span className="meta__date-date">09 mar, 2019</span>
+                                <span className="meta__date-date">14 oct, 2023</span>
                                 <img src="/images/blog-img.jpg" alt="service-image" />
                             </div>
                             <div className="news__content">
@@ -20,77 +20,66 @@ const News = () => {
                                     <li><a href="#">3 comments</a></li>
                                 </ul>
                                 <p className="news__content-text">
-                                    Aliq is notm hendr erit a augue insu image pellen tes que id erat quis
-                                    sollicitud. Lorem ipsum dolor sit amet,
-                                    consectetur adipiscing ullam blandit hendrerit faucibus suspendisse.
+                                Historic floods have left families devastated. Water-borne diseases and malnutrition are compounding the threats to their safety. 
                                 </p>
-                                <Link href="/single-news" className="theme-btn">read more</Link>
+                                <Link href="https://www.unicef.org/blog/pakistan-floodwaters-hide-new-dangers" target="_blank" className="theme-btn">read more</Link>
                             </div>
                         </div>
                     </div>
                     <div className="col-lg-6 col-sm-6">
                         <div className="recent-item">
                             <div className="recent__img">
-                                <span className="meta__date-date meta__date-date2">07 mar, 2019</span>
+                                <span className="meta__date-date meta__date-date2">07 mar, 2023</span>
                                 <img src="/images/blog-img5.jpg" alt="service-image"/>
                             </div>
                             <div className="news__content">
-                                <h3 className="news__content-title"><Link href="/single-news">We can make a difference
-                                    in families lives </Link></h3>
+                                <h3 className="news__content-title"><Link href="/single-news">Rising waters, sinking lives</Link></h3>
                                 <ul className="news__content-list">
                                     <li className="news__content-active__dot"><a href="#">jessica brown</a></li>
                                     <li><a href="#">2 comments</a></li>
                                 </ul>
                                 <p className="news__content-text">
-                                    Aliq is notm hendr erit a augue insu image pellen tes que id erat quis
-                                    sollicitud. Lorem ipsum dolor sit amet,
-                                    consectetur adipiscing ullam blandit hendrerit faucibus suspendisse.
+                                Sustainable water solutions provide a glimpse of hope for a family living along the Mekong river.
                                 </p>
-                                <Link href="/single-news" className="theme-btn">read more</Link>
+                                <Link href="https://www.unicef.org/blog/rising-waters-sinking-lives-cambodia-battle-against-climate-health-threats" target="_blank" className="theme-btn">read more</Link>
                             </div>
                         </div>
                     </div>
                     <div className="col-lg-6 col-sm-6">
                         <div className="recent-item">
                             <div className="recent__img">
-                                <span className="meta__date-date meta__date-date3">04 mar, 2019</span>
+                                <span className="meta__date-date meta__date-date3">12 sept, 2023</span>
                                 <img src="/images/blog-img6.jpg" alt="service-image" />
                             </div>
                             <div className="news__content">
-                                <h3 className="news__content-title"><Link href="/single-news">Build school for poor
-                                    childrens</Link></h3>
+                                <h3 className="news__content-title"><Link href="/single-news">How flexible funding is saving lives</Link></h3> 
                                 <ul className="news__content-list">
                                     <li className="news__content-active__dot"><a href="#">john smith</a></li>
                                     <li><a href="#">0 comments</a></li>
                                 </ul>
                                 <p className="news__content-text">
-                                    Aliq is notm hendr erit a augue insu image pellen tes que id erat quis
-                                    sollicitud. Lorem ipsum dolor sit amet,
-                                    consectetur adipiscing ullam blandit hendrerit faucibus suspendisse.
+                                With generous support from partners, Global Humanitarian Thematic Funding is helping UNICEF save lives.
                                 </p>
-                                <Link href="/single-news" className="theme-btn">read more</Link>
+                                <Link href="https://www.unicef.org/stories/how-flexible-funding-saving-lives" target="_blank" className="theme-btn">read more</Link>
                             </div>
                         </div>
                     </div>
                     <div className="col-lg-6 col-sm-6">
                         <div className="recent-item">
                             <div className="recent__img">
-                                <span className="meta__date-date meta__date-date4">30 feb, 2019</span>
+                                <span className="meta__date-date meta__date-date4">04 aug, 2023</span>
                                 <img src="/images/blog-img7.jpg" alt="service-image" />
                             </div>
                             <div className="news__content">
-                                <h3 className="news__content-title"><Link href="/single-news">Learn how access to clean
-                                    water</Link></h3>
+                                <h3 className="news__content-title"><Link href="/single-news">Through the eyes of a road crash survivor</Link></h3>
                                 <ul className="news__content-list">
                                     <li className="news__content-active__dot"><a href="#">kevin hart</a></li>
                                     <li><a href="#">4 comments</a></li>
                                 </ul>
                                 <p className="news__content-text">
-                                    Aliq is notm hendr erit a augue insu image pellen tes que id erat quis
-                                    sollicitud. Lorem ipsum dolor sit amet,
-                                    consectetur adipiscing ullam blandit hendrerit faucibus suspendisse.
+                                Why it's time to meaningfully engage with youth on road safety.
                                 </p>
-                                <Link href="/single-news" className="theme-btn">read more</Link>
+                                <Link href="https://www.unicef.org/blog/meaningfully-engaging-with-youth-on-road-safety" target="_blank" className="theme-btn">read more</Link>
                             </div>
                         </div>
                     </div>
@@ -101,40 +90,35 @@ const News = () => {
                                 <img src="/images/blog-img8.jpg" alt="service-image" />
                             </div>
                             <div className="news__content">
-                                <h3 className="news__content-title"><Link href="/single-news">Do something crazy to
-                                    raise money</Link></h3>
+                                <h3 className="news__content-title"><Link href="/single-news">Climate finance is about fulfilling obligations</Link></h3>
                                 <ul className="news__content-list">
                                     <li className="news__content-active__dot"><a href="#">christine eve</a></li>
-                                    <li><a href="#">2 comments</a></li>
+                                    <li><a href="https://www.unicef.org/blog/climate-financing-fulfilling-obligations">2 comments</a></li>
                                 </ul>
                                 <p className="news__content-text">
-                                    Aliq is notm hendr erit a augue insu image pellen tes que id erat quis
-                                    sollicitud. Lorem ipsum dolor sit amet,
-                                    consectetur adipiscing ullam blandit hendrerit faucibus suspendisse.
+                                It’s no longer about developed countries being “good-hearted”.
+
                                 </p>
-                                <Link href="/single-news" className="theme-btn">read more</Link>
+                                <Link href="https://www.unicef.org/blog/climate-financing-fulfilling-obligations" target="_blank" className="theme-btn">read more</Link>
                             </div>
                         </div>
                     </div>
                     <div className="col-lg-6 col-sm-6">
                         <div className="recent-item">
                             <div className="recent__img">
-                                <span className="meta__date-date meta__date-date2">20 feb, 2019</span>
+                                <span className="meta__date-date meta__date-date2">18 jan, 2024</span>
                                 <img src="/images/blog-img9.jpg" alt="service-image" />
                             </div>
                             <div className="news__content">
-                                <h3 className="news__content-title"><Link href="/single-news">Together to help the
-                                    world better</Link></h3>
+                                <h3 className="news__content-title"><Link href="/single-news">Children’s futures at a crossroads</Link></h3>
                                 <ul className="news__content-list">
                                     <li className="news__content-active__dot"><a href="#">mike hardson</a></li>
                                     <li><a href="#">0 comments</a></li>
                                 </ul>
                                 <p className="news__content-text">
-                                    Aliq is notm hendr erit a augue insu image pellen tes que id erat quis
-                                    sollicitud. Lorem ipsum dolor sit amet,
-                                    consectetur adipiscing ullam blandit hendrerit faucibus suspendisse.
+                                Geopolitical and geoeconomic fragmentation threaten the development and survival of children across the globe.
                                 </p>
-                                <Link href="/single-news" className="theme-btn">read more</Link>
+                                <Link href="https://www.unicef.org/blog/childrens-futures-crossroads" target="_blank" className="theme-btn">read more</Link>
                             </div>
                         </div>
                     </div>
