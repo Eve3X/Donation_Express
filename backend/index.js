@@ -5,6 +5,7 @@ const express = require('express')
 const app = express()
 const port = 5000;
 app.use(express.json())
+app.get('/',res)
 
 app.use('/api/auth',require('./routes/auth'))
 app.use('/api/contact',require('./routes/contact'))
